@@ -1,5 +1,5 @@
 # bash-portavail-slack
-A bash script to monitor a port on the localhost. Senbd Slack alert if the port is not available.
+A bash script to monitor a port on the localhost. Send Slack alert if the port is not available.
 
 The secret are in the bash file which is very bad.
 You should set them at least in the env or use a secret manager.
